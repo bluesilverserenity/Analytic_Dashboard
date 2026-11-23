@@ -1,6 +1,6 @@
 # Analytic_Dashboard
 
-A responsive, static fintech and business dashboard built with HTML, CSS, JavaScript, and inline SVG charts. The interface includes an overview, analytics, reports, and account settings, with navigation that adapts to desktop and mobile screens.
+A responsive, static business dashboard built with HTML, CSS, JavaScript, and inline SVG charts. The interface includes an overview, analytics, reports, and account settings, with navigation that adapts to desktop and mobile screens.
 
 ## Features
 
@@ -65,8 +65,8 @@ No framework, package manager, database, or build tool is required.
 Clone the repository:
 
 ```bash
-git clone https://github.com/AloyEmmanuel/Fintech-App.git
-cd Fintech-App
+git clone https://github.com/bluesilverserenity/Analytic_Dashboard.git
+cd Analytic_Dashboard
 ```
 
 Open `home.html` directly in a browser, or start a local server:
